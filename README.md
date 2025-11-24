@@ -126,8 +126,6 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 🙏 Acknowledgments
 
 - Built with [Vite](https://vitejs.dev/) and [React](https://reactjs.org/)
-- Special thanks to the localization community for inspiration
-- Icons and UI elements designed for accessibility and usability
 
 ---
 
