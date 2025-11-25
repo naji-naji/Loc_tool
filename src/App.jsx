@@ -12,8 +12,13 @@ function App() {
       <aside className={`sidebar ${sidebarCollapsed ? 'collapsed' : ''}`} role="navigation" aria-label="Main navigation">
         <div className="sidebar-content">
           <div className="sidebar-header">
+<<<<<<< HEAD
             <h1>Hid Char Helper</h1>
             <p>A tool to identify and analyze hidden characters in text</p>
+=======
+            <h1>Hidden Characters Tool</h1>
+            <p>A tool to help with those pesky invisible characters</p>
+>>>>>>> 380ceae8f674d769a81561c430ad4b6d12217c9e
           </div>
           
           <nav className="sidebar-nav">
